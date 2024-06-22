@@ -1,0 +1,6 @@
+1. check header instead of hidden field
+2. verify source and target origin (X-Forwarded-Host shouldn't be used) as target header)
+3. prevent XSS
+4. add Google SSO
+5. switch to KeyDB
+6. documentation
